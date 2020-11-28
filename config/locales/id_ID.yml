@@ -292,8 +292,8 @@ id_ID:
     search:
       start: Temukan ...
   landing:
-    about: "%{href} adalah antar-muka untuk server BigBlueButton yang memungkinkan Anda membentuk ruang-ruang pertemuan, atau bergabung ke ruang pertemuan lain melalui tautan yang singkat dan nyaman digunakan."
-    welcome: Selamat datang di BigBlueButton.
+    about: "Meeting UMY adalah antar-muka untuk server BigBlueButton yang memungkinkan Anda membentuk ruang-ruang pertemuan, atau bergabung ke ruang pertemuan lain melalui tautan yang singkat dan nyaman digunakan."
+    welcome: Selamat datang di Meeting UMY.
     video: Saksiksan video petunjuk penggunaan Greenlight
     upgrade: Cara upgrade ke versi 2.0!
     version: "Greenlight versi baru sudah ada, tapi database Anda tidak cocok."
