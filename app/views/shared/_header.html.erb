@@ -15,10 +15,10 @@
 
 <div class="header py-4">
   <div class="container">
-    <div class="d-flex">
-      <%= link_to (current_user ? home_page : root_path), class: "header-brand" do %>
+    <div class="d-flex align-items-center">
+      <%= link_to (current_user ? home_page : root_path), class: "header-brand w-50" do %>
         <% begin %>
-          <%= image_tag(logo_image, class: "header-brand-img", alt:"") %>
+          <%= image_tag(logo_image, class: "header-brand-img header-img", alt:"") %>
         <% rescue %>
           <%= t("administrator.site_settings.branding.invalid") %>
         <% end %>
