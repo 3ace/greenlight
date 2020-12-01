@@ -16,7 +16,7 @@
 <div class="header py-4">
   <div class="container">
     <div class="d-flex align-items-center">
-      <%= link_to (current_user ? home_page : root_path), class: "header-brand w-50" do %>
+      <%= link_to ("https://bsi.umy.ac.id"), class: "header-brand w-50" do %>
         <% begin %>
           <%= image_tag(logo_image, class: "header-brand-img header-img", alt:"") %>
         <% rescue %>
