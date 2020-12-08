@@ -95,7 +95,7 @@ id_ID:
       shared_access:
         info: "Menonaktifkan ini akan meniadakan menu pilihan Pengaturan Ruang Pertemuan, mencegah anggota berbagi ruang pertemuan"
         title: Ijinkan Anggota Berbagi Ruang Pertemuan
-      subtitle: Ubah-suai Greenlight
+      subtitle: Ubah-suai Meeting UMY
       title: Pengaturan Situs
     flash:
       approved: Keanggotaan disetujui
