@@ -270,6 +270,7 @@ id_ID:
   go_back: Kembali
   greenlight: Greenlight
   meeting_umy: Meeting UMY
+  umy: Universitas Muhammadiyah Yogyakarta
   header:
     all_recordings: Semua Rekaman
     dropdown:
@@ -293,7 +294,7 @@ id_ID:
     search:
       start: Temukan ...
   landing:
-    about: "Meeting UMY adalah antar-muka untuk server BigBlueButton yang memungkinkan Anda membentuk ruang-ruang pertemuan, atau bergabung ke ruang pertemuan lain melalui tautan yang singkat dan nyaman digunakan."
+    about: "Meeting UMY adalah antar-muka yang memungkinkan Anda membentuk ruang-ruang pertemuan, atau bergabung ke ruang pertemuan lain melalui tautan yang singkat dan nyaman digunakan."
     welcome: Selamat datang di Meeting UMY.
     video: Saksiksan video petunjuk penggunaan Greenlight
     upgrade: Cara upgrade ke versi 2.0!
